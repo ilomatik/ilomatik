@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I'm currently working on my own and my company's projects<br>🌱 I'm currently learning design patterns<br>⚡ The technologies and design patterns I know : <br>      ○ State Pattern<br>      ○ Observer Pattern<br>      ○ Singleton Pattern<br>      ○ Strategy Pattern<br>      ○ SOLID<br>      ○ Scriptable Game Events (Unity)      ○ MVC<br>       ○ Dependecy Injection<br> 
+🔭 I'm currently working on my own and my company's projects<br>🌱 I'm currently learning design patterns<br>⚡ The technologies and design patterns I know : <br>      ○ State Pattern<br>      ○ Observer Pattern<br>      ○ Singleton Pattern<br>      ○ Strategy Pattern<br>      ○ SOLID<br>      ○ Scriptable Game Events (Unity)<br>      ○ MVC<br>       ○ Dependecy Injection<br> 
 
 
 ## 🌐 Socials:
